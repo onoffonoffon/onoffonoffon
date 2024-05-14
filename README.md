@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onoffonoffon
-- 👀 I’m interested in Solidity development, snowboarding, and yoga.
-- 🌱 I’m currently learning Solidity and Python.
+- 👀 I’m interested in blockchain botting, snowboarding, and yoga.
+- 🌱 I’m currently learning Python and building trading bots.
 - 💞️ I’m looking to collaborate on high vibe projects.
 - 📫 How to reach me ... ... ...
 
